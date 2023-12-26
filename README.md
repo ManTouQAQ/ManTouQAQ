@@ -1,4 +1,4 @@
-### Hi there 👋
+### an average student
 
 <!--
 **ManTouQAQ/ManTouQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
