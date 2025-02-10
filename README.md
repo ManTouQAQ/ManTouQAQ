@@ -1,4 +1,5 @@
 ### an average student
+精通c,c++,c#.rust,js,ts,java,kotlin,python等单词的拼写
 
 <!--
 **ManTouQAQ/ManTouQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
